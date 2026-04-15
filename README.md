@@ -4,54 +4,53 @@
 </h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Robot-Bold&size=30&color=330033&center=true&vCenter=true&width=900&height=110&lines=Passionate+Developer;Programmer;Content+Writer;Tech-savvy+person+from+India" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Robot-Bold&size=30&color=330033&center=true&vCenter=true&width=900&height=110&lines=Passionate+Developer;Programmer;Content+Writer;AI+Engineer+in+Progress;Tech-savvy+person+from+India" />
 </p>
-
-<img align="right" alt="Coding" width="400" src="https://github.com/Ayushparikh-code/Ayushparikh-code/blob/main/coding-freak%20(1).gif">
 
 ---
 
+<!-- RESPONSIVE ABOUT + IMAGE -->
+<table>
+<tr>
+<td width="60%">
+
 ## 🙋‍♂️ About Me
-- 💻 I’m currently working on something cool 😉  
+- 💻 I’m currently working on **Voice AI Systems**  
 - 🤝 I’m looking to collaborate on **Open-Source Projects**  
-- 🚀 Always exploring new technologies  
+- 🧠 Exploring **LLMs, RAG, and AI Agents**  
+- 🚀 Passionate about building real-world AI products  
+
+</td>
+
+<td width="40%" align="center">
+  <img src="https://github.com/Ayushparikh-code/Ayushparikh-code/blob/main/coding-freak%20(1).gif" style="max-width:100%; height:auto;" />
+</td>
+</tr>
+</table>
 
 ---
 
 ## 🚀 Languages and Tools
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="40" style="margin:8px"/>
-  <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" width="40" style="margin:8px"/>
-  <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" width="40" style="margin:8px"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" width="40" style="margin:8px"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="40" style="margin:8px"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="40" style="margin:8px"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="40" style="margin:8px"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" width="40" style="margin:8px"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" width="40" style="margin:8px"/>
-  <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" width="40" style="margin:8px"/>
-  <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" width="40" style="margin:8px"/>
-  <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" width="40" style="margin:8px"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="40" style="margin:8px"/>
-  <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" width="40" style="margin:8px"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40" style="margin:8px"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" style="margin:8px"/>
-  <img src="https://www.vectorlogo.zone/logos/jekyllrb/jekyllrb-icon.svg" width="40" style="margin:8px"/>
-  <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" width="40" style="margin:8px"/>
-  <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" width="40" style="margin:8px"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40" style="margin:8px"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="40" style="margin:8px"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40" style="margin:8px"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" width="40" style="margin:8px"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="40" style="margin:8px"/>
-  <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" width="40" style="margin:8px"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" width="40" style="margin:8px"/>
-  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="40" style="margin:8px"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" style="margin:8px"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="40" style="margin:8px"/>
-  <img src="https://raw.githubusercontent.com/detain/svg-logos/master/svg/selenium-logo.svg" width="40" style="margin:8px"/>
-  <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" width="40" style="margin:8px"/>
+  <img src="https://skillicons.dev/icons?i=aws,azure,bash,bootstrap,c,cpp,css,docker,express,firebase,flutter,gcp,git,heroku,html,js,jenkins,kubernetes,linux,mongodb,mysql,nginx,nodejs,opencv,oracle,postman,python,react,selenium,tensorflow" />
+</p>
+
+---
+
+## 🧠 AI / LLM Expertise
+
+<p align="center">
+  <img src="https://img.shields.io/badge/RAG-Retrieval%20Augmented%20Generation-blue?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Claude-Anthropic%20LLM-orange?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/MCP-Model%20Context%20Protocol-green?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Vector%20DB-Embeddings%20%26%20Search-purple?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/LangGraph-Agent%20Workflows-black?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/LangChain-LLM%20Framework-teal?style=for-the-badge"/>
+</p>
+
+<p align="center">
+  🚀 Built real-time Voice AI systems using LangGraph, RAG pipelines, and tool-calling LLMs.
 </p>
 
 ---
@@ -107,5 +106,5 @@
 ---
 
 <p align="center">
-  ⭐️ *Ask me anything, I'm happy to help!* ⭐️
+  ⭐️ <b>Ask me anything, I'm happy to help!</b> ⭐️
 </p>
