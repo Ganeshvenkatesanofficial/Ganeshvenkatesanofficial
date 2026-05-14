@@ -10,10 +10,11 @@
 <table>
 <tr>
 <td width="60%">
-##  About Me
-- I’m looking to collaborate on **Open-Source Projects**  
-- Exploring **LLMs, RAG, and AI Agents**  
-- Passionate about building real-world AI products  
+🙋‍♂️ About Me
+💻 I’m currently working on Voice AI Systems
+🤝 I’m looking to collaborate on Open-Source Projects
+🧠 Exploring LLMs, RAG, and AI Agents
+🚀 Passionate about building real-world AI products
 </td>
 <td width="40%" align="center">
   <img src="https://github.com/Ayushparikh-code/Ayushparikh-code/blob/main/coding-freak%20(1).gif" style="max-width:100%; height:auto;" />
@@ -21,12 +22,12 @@
 </tr>
 </table>
 ---
-## 🚀 Languages and Tools
+🚀 Languages and Tools
 <p align="center">
   <img src="https://skillicons.dev/icons?i=aws,azure,bash,bootstrap,c,cpp,css,docker,express,firebase,flutter,gcp,git,heroku,html,js,jenkins,kubernetes,linux,mongodb,mysql,nginx,nodejs,opencv,oracle,postman,python,react,selenium,tensorflow" />
 </p>
 ---
-## AI / LLM Expertise
+🧠 AI / LLM Expertise
 <p align="center">
   <img src="https://img.shields.io/badge/RAG-Retrieval%20Augmented%20Generation-blue?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Claude-Anthropic%20LLM-orange?style=for-the-badge"/>
@@ -36,10 +37,10 @@
   <img src="https://img.shields.io/badge/LangChain-LLM%20Framework-teal?style=for-the-badge"/>
 </p>
 <p align="center">
-   Built real-time Voice AI systems using LangGraph, RAG pipelines, and tool-calling LLMs.
+  🚀 Built real-time Voice AI systems using LangGraph, RAG pipelines, and tool-calling LLMs.
 </p>
 ---
-## GitHub Stats
+📊 GitHub Stats
 <p align="center">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Ganeshvenkatesanofficial&show_icons=true&theme=tokyonight" />
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Ganeshvenkatesanofficial&theme=tokyonight" />
@@ -48,22 +49,22 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ganeshvenkatesanofficial&theme=tokyonight" />
 </p>
 ---
-## GitHub Trophy
+🏆 GitHub Trophy
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Ganeshvenkatesanofficial&column=7"/>
 </p>
 ---
-## Random Dev Joke
+😂 Random Dev Joke
 <p align="center">
   <img src="https://readme-jokes.vercel.app/api" />
 </p>
 ---
-## 👀 Visitor Count
+👀 Visitor Count
 <p align="center">
   <img src="https://profile-counter.glitch.me/Ganeshvenkatesanofficial/count.svg" />
 </p>
 ---
-## Connect with Me
+📬 Connect with Me
 <p align="center">
   <a href="https://www.linkedin.com/in/ganesh-v-3a4516256/">
     <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/>
@@ -74,5 +75,5 @@
 </p>
 ---
 <p align="center">
-  <b>Ask me anything, I'm happy to help!</b>
+  ⭐️ <b>Ask me anything, I'm happy to help!</b> ⭐️
 </p>
