@@ -14,6 +14,7 @@
 <table>
 <tr>
 <td width="60%">
+  
 - 🧠 Exploring **LLMs, RAG, AI Agents & MCP**
 - 🚀 Passionate about creating **real-world AI products**
 - 🤝 Open to collaborating on **Open-Source Projects**
