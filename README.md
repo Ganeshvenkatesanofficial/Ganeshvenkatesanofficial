@@ -14,10 +14,10 @@
 <tr>
 <td width="60%">
 
-## 🙋‍♂️ About Me
-- 🤝 I’m looking to collaborate on **Open-Source Projects**  
-- 🧠 Exploring **LLMs, RAG, and AI Agents**  
-- 🚀 Passionate about building real-world AI products  
+##  About Me
+- I’m looking to collaborate on **Open-Source Projects**  
+- Exploring **LLMs, RAG, and AI Agents**  
+- Passionate about building real-world AI products  
 
 </td>
 
@@ -37,7 +37,7 @@
 
 ---
 
-## 🧠 AI / LLM Expertise
+## AI / LLM Expertise
 
 <p align="center">
   <img src="https://img.shields.io/badge/RAG-Retrieval%20Augmented%20Generation-blue?style=for-the-badge"/>
@@ -49,12 +49,12 @@
 </p>
 
 <p align="center">
-  🚀 Built real-time Voice AI systems using LangGraph, RAG pipelines, and tool-calling LLMs.
+   Built real-time Voice AI systems using LangGraph, RAG pipelines, and tool-calling LLMs.
 </p>
 
 ---
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 <p align="center">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Ganeshvenkatesanofficial&show_icons=true&theme=tokyonight" />
@@ -67,7 +67,7 @@
 
 ---
 
-## 🏆 GitHub Trophy
+## GitHub Trophy
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Ganeshvenkatesanofficial&column=7"/>
@@ -75,7 +75,7 @@
 
 ---
 
-## 😂 Random Dev Joke
+## Random Dev Joke
 
 <p align="center">
   <img src="https://readme-jokes.vercel.app/api" />
@@ -91,7 +91,7 @@
 
 ---
 
-## 📬 Connect with Me
+## Connect with Me
 
 <p align="center">
   <a href="https://www.linkedin.com/in/ganesh-v-3a4516256/">
@@ -105,5 +105,5 @@
 ---
 
 <p align="center">
-  ⭐️ <b>Ask me anything, I'm happy to help!</b> ⭐️
+  <b>Ask me anything, I'm happy to help!</b>
 </p>
