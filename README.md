@@ -14,8 +14,6 @@
 <table>
 <tr>
 <td width="60%">
-
-- 💻 Currently building **Voice AI Systems**
 - 🧠 Exploring **LLMs, RAG, AI Agents & MCP**
 - 🚀 Passionate about creating **real-world AI products**
 - 🤝 Open to collaborating on **Open-Source Projects**
