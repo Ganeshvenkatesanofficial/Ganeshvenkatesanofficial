@@ -15,7 +15,6 @@
 <td width="60%">
 
 ## 🙋‍♂️ About Me
-- 💻 I’m currently working on **Voice AI Systems**  
 - 🤝 I’m looking to collaborate on **Open-Source Projects**  
 - 🧠 Exploring **LLMs, RAG, and AI Agents**  
 - 🚀 Passionate about building real-world AI products  
