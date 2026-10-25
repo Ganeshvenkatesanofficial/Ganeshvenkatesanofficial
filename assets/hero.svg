@@ -83,7 +83,7 @@
   <g clip-path="url(#hero-visual-clip)"><rect class="scan-beam" x="690" y="46" width="1.5" height="320" fill="#087F80"/><rect class="scan-beam" x="691.5" y="46" width="34" height="320" fill="#2159E8" fill-opacity=".06"/></g>
 
   <g font-family="ui-monospace,SFMono-Regular,Menlo,Monaco,Consolas,monospace">
-    <text class="hero-kicker" x="72" y="64" fill="#087F80" font-size="13" font-weight="700" letter-spacing="3">GANESH VENKATESAN / A2A &amp; ADK AGENTIC SYSTEMS</text>
+    <text class="hero-kicker" x="72" y="64" fill="#087F80" font-size="13" font-weight="700" letter-spacing="3">GANESH VENKATESAN / EVIDENCE-FIRST AGENTIC SYSTEMS</text>
     <text class="hero-line hero-line-1" x="72" y="138" fill="#14253E" font-family="Avenir Next,Segoe UI,sans-serif" font-size="48" font-weight="780" letter-spacing="-1.6">I build agentic systems</text>
     <text class="hero-line hero-line-2" x="72" y="195" fill="#14253E" font-family="Avenir Next,Segoe UI,sans-serif" font-size="48" font-weight="780" letter-spacing="-1.6">that can prove</text>
     <text class="hero-line hero-line-3" x="72" y="252" fill="#087F80" font-family="Avenir Next,Segoe UI,sans-serif" font-size="48" font-weight="780" letter-spacing="-1.6">what happened.</text>

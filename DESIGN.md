@@ -44,7 +44,7 @@ The design language balances high-velocity real-world AI engineering with rigoro
 1. **Animated Hero Banner (`assets/hero.svg`)**:
    - 1200×420 responsive SVG canvas with radial glows and animated scanning beams.
    - Exact phrasing: *"I build agentic systems that can prove what happened."*
-   - Kicker: `GANESH VENKATESAN / A2A & ADK AGENTIC SYSTEMS`
+   - Kicker: `GANESH VENKATESAN / EVIDENCE-FIRST AGENTIC SYSTEMS`
    - Subtitle: `AI engineer · Agentic AI engineer · Enterprise AI`
    - Dual-loop orbital telemetry with moving data packets (`--dx`, `--dy`).
    - Center verified core featuring animated checkmark draw and pulsing beacon rings.
