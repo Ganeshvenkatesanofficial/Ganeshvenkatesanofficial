@@ -33,7 +33,7 @@ The operating principle is simple: preserve the interaction state, replay the ag
 | **Core Agent Protocols** | **A2A (Agent-to-Agent Protocols)** · **ADK (Agent Development Kit)** · Multi-Agent Orchestration · Verifiable Handoffs |
 | **Agent Frameworks** | **LangGraph** (State Graphs &amp; Loops) · **SmolAgents** · **MCP (Model Context Protocol)** · Dynamic Tool Calling |
 | **Healthcare &amp; Contact Center AI** | Clinical Triage Protocols · HIPAA Compliance Boundaries · EHR Retrieval · Doctor Escalation Gates |
-| **Offline Systems &amp; Engineering** | **Flutter** (macOS &amp; Windows) · **FastAPI** · **Ollama Local LLM** · Python · Java · C · JavaScript · AsyncIO · GitOps (ArgoCD) |
+| **Offline Systems &amp; Engineering** | **Flutter** (macOS &amp; Windows) · **FastAPI** · **Ollama Local LLM** · Python · Java · C · JavaScript · AsyncIO · GitOps (ArgoCD · AWS · GCP) |
 
 ### Start with the evidence you need
 
@@ -55,11 +55,13 @@ Click any official logo to inspect documentation and specifications:
   <a href="https://huggingface.co/docs/smolagents" title="SmolAgents" target="_blank"><img src="./assets/icons/smolagents.svg" width="48" height="48" alt="SmolAgents" /></a>
   <a href="https://modelcontextprotocol.io/" title="Model Context Protocol" target="_blank"><img src="./assets/icons/mcp.svg" width="48" height="48" alt="Model Context Protocol" /></a>
   <a href="https://github.com/jlowin/fastmcp" title="FastMCP" target="_blank"><img src="./assets/icons/fastmcp.svg" width="48" height="48" alt="FastMCP" /></a>
+  <a href="https://pytorch.org/" title="PyTorch" target="_blank"><img src="https://skillicons.dev/icons?i=pytorch" width="48" height="48" alt="PyTorch" /></a>
 </p>
 
 <p align="left">
   <b>Core Languages &amp; Client Frameworks:</b><br />
   <a href="https://en.cppreference.com/w/c" title="C" target="_blank"><img src="https://skillicons.dev/icons?i=c" width="48" height="48" alt="C" /></a>
+  <a href="https://en.cppreference.com/w/cpp" title="C++" target="_blank"><img src="https://skillicons.dev/icons?i=cpp" width="48" height="48" alt="C++" /></a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" title="JavaScript" target="_blank"><img src="https://skillicons.dev/icons?i=js" width="48" height="48" alt="JavaScript" /></a>
   <a href="https://www.typescriptlang.org/" title="TypeScript" target="_blank"><img src="https://skillicons.dev/icons?i=ts" width="48" height="48" alt="TypeScript" /></a>
   <a href="https://www.python.org/" title="Python" target="_blank"><img src="https://skillicons.dev/icons?i=python" width="48" height="48" alt="Python" /></a>
@@ -67,22 +69,33 @@ Click any official logo to inspect documentation and specifications:
   <a href="https://dart.dev/" title="Dart" target="_blank"><img src="https://skillicons.dev/icons?i=dart" width="48" height="48" alt="Dart" /></a>
   <a href="https://flutter.dev/" title="Flutter" target="_blank"><img src="https://skillicons.dev/icons?i=flutter" width="48" height="48" alt="Flutter" /></a>
   <a href="https://react.dev/" title="React" target="_blank"><img src="https://skillicons.dev/icons?i=react" width="48" height="48" alt="React" /></a>
+  <a href="https://nextjs.org/" title="Next.js" target="_blank"><img src="https://skillicons.dev/icons?i=nextjs" width="48" height="48" alt="Next.js" /></a>
 </p>
 
 <p align="left">
-  <b>Backend, Networking &amp; Protocols:</b><br />
+  <b>Backend, Networking &amp; Databases:</b><br />
   <a href="https://fastapi.tiangolo.com/" title="FastAPI" target="_blank"><img src="https://skillicons.dev/icons?i=fastapi" width="48" height="48" alt="FastAPI" /></a>
+  <a href="https://nodejs.org/" title="Node.js" target="_blank"><img src="https://skillicons.dev/icons?i=nodejs" width="48" height="48" alt="Node.js" /></a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/API/WebSockets_API" title="WebSockets" target="_blank"><img src="./assets/icons/websockets.svg" width="48" height="48" alt="WebSockets" /></a>
   <a href="https://www.postman.com/" title="Postman" target="_blank"><img src="https://skillicons.dev/icons?i=postman" width="48" height="48" alt="Postman" /></a>
+  <a href="https://www.postgresql.org/" title="PostgreSQL" target="_blank"><img src="https://skillicons.dev/icons?i=postgres" width="48" height="48" alt="PostgreSQL" /></a>
+  <a href="https://www.mongodb.com/" title="MongoDB" target="_blank"><img src="https://skillicons.dev/icons?i=mongodb" width="48" height="48" alt="MongoDB" /></a>
+  <a href="https://www.sqlite.org/" title="SQLite" target="_blank"><img src="https://skillicons.dev/icons?i=sqlite" width="48" height="48" alt="SQLite" /></a>
+  <a href="https://redis.io/" title="Redis" target="_blank"><img src="https://skillicons.dev/icons?i=redis" width="48" height="48" alt="Redis" /></a>
+  <a href="https://nginx.org/" title="Nginx" target="_blank"><img src="https://skillicons.dev/icons?i=nginx" width="48" height="48" alt="Nginx" /></a>
 </p>
 
 <p align="left">
   <b>Cloud, DevOps &amp; GitOps Infrastructure:</b><br />
   <a href="https://argo-cd.readthedocs.io/" title="Argo CD" target="_blank"><img src="./assets/icons/argocd.svg" width="48" height="48" alt="Argo CD" /></a>
   <a href="https://kubernetes.io/" title="Kubernetes" target="_blank"><img src="https://skillicons.dev/icons?i=kubernetes" width="48" height="48" alt="Kubernetes" /></a>
+  <a href="https://aws.amazon.com/" title="Amazon Web Services (AWS)" target="_blank"><img src="https://skillicons.dev/icons?i=aws" width="48" height="48" alt="AWS" /></a>
   <a href="https://cloud.google.com/" title="Google Cloud" target="_blank"><img src="https://skillicons.dev/icons?i=gcp" width="48" height="48" alt="Google Cloud" /></a>
   <a href="https://www.docker.com/" title="Docker" target="_blank"><img src="https://skillicons.dev/icons?i=docker" width="48" height="48" alt="Docker" /></a>
   <a href="https://github.com/features/actions" title="GitHub Actions" target="_blank"><img src="https://skillicons.dev/icons?i=githubactions" width="48" height="48" alt="GitHub Actions" /></a>
+  <a href="https://git-scm.com/" title="Git" target="_blank"><img src="https://skillicons.dev/icons?i=git" width="48" height="48" alt="Git" /></a>
+  <a href="https://www.linux.org/" title="Linux" target="_blank"><img src="https://skillicons.dev/icons?i=linux" width="48" height="48" alt="Linux" /></a>
+  <a href="https://www.gnu.org/software/bash/" title="Bash" target="_blank"><img src="https://skillicons.dev/icons?i=bash" width="48" height="48" alt="Bash" /></a>
 </p>
 
 <!-- top-contributor-proof:start -->
