@@ -45,54 +45,45 @@ The operating principle is simple: preserve the interaction state, replay the ag
 
 ### Technology stack &amp; verified ecosystem
 
-<p align="center">
-  <a href="https://en.cppreference.com/w/c" target="_blank"><img src="https://skillicons.dev/icons?i=c" alt="C" /></a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://skillicons.dev/icons?i=js" alt="JavaScript" /></a>
-  <a href="https://www.typescriptlang.org/" target="_blank"><img src="https://skillicons.dev/icons?i=ts" alt="TypeScript" /></a>
-  <a href="https://www.python.org/" target="_blank"><img src="https://skillicons.dev/icons?i=python" alt="Python" /></a>
-  <a href="https://www.oracle.com/java/" target="_blank"><img src="https://skillicons.dev/icons?i=java" alt="Java" /></a>
-  <a href="https://dart.dev/" target="_blank"><img src="https://skillicons.dev/icons?i=dart" alt="Dart" /></a>
-  <a href="https://flutter.dev/" target="_blank"><img src="https://skillicons.dev/icons?i=flutter" alt="Flutter" /></a>
-  <a href="https://react.dev/" target="_blank"><img src="https://skillicons.dev/icons?i=react" alt="React" /></a>
-  <a href="https://fastapi.tiangolo.com/" target="_blank"><img src="https://skillicons.dev/icons?i=fastapi" alt="FastAPI" /></a>
-  <a href="https://www.postman.com/" target="_blank"><img src="https://skillicons.dev/icons?i=postman" alt="Postman" /></a>
-  <a href="https://www.docker.com/" target="_blank"><img src="https://skillicons.dev/icons?i=docker" alt="Docker" /></a>
-  <a href="https://kubernetes.io/" target="_blank"><img src="https://skillicons.dev/icons?i=kubernetes" alt="Kubernetes" /></a>
-  <a href="https://cloud.google.com/" target="_blank"><img src="https://skillicons.dev/icons?i=gcp" alt="Google Cloud" /></a>
-  <a href="https://github.com/features/actions" target="_blank"><img src="https://skillicons.dev/icons?i=githubactions" alt="GitHub Actions" /></a>
+Click any official logo to inspect documentation and specifications:
+
+<p align="left">
+  <b>Agentic AI &amp; Protocol Runtimes:</b><br />
+  <a href="https://adk.dev/" title="ADK (Agent Development Kit)" target="_blank"><img src="./assets/icons/adk.svg" width="48" height="48" alt="ADK" /></a>
+  <a href="https://www.langchain.com/langgraph" title="LangGraph" target="_blank"><img src="./assets/icons/langgraph.svg" width="48" height="48" alt="LangGraph" /></a>
+  <a href="https://ollama.com/" title="Ollama" target="_blank"><img src="./assets/icons/ollama.svg" width="48" height="48" alt="Ollama" /></a>
+  <a href="https://huggingface.co/docs/smolagents" title="SmolAgents" target="_blank"><img src="./assets/icons/smolagents.svg" width="48" height="48" alt="SmolAgents" /></a>
+  <a href="https://modelcontextprotocol.io/" title="Model Context Protocol" target="_blank"><img src="./assets/icons/mcp.svg" width="48" height="48" alt="Model Context Protocol" /></a>
+  <a href="https://github.com/jlowin/fastmcp" title="FastMCP" target="_blank"><img src="./assets/icons/fastmcp.svg" width="48" height="48" alt="FastMCP" /></a>
 </p>
 
-Click any official badge to inspect documentation and specifications:
+<p align="left">
+  <b>Core Languages &amp; Client Frameworks:</b><br />
+  <a href="https://en.cppreference.com/w/c" title="C" target="_blank"><img src="https://skillicons.dev/icons?i=c" width="48" height="48" alt="C" /></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" title="JavaScript" target="_blank"><img src="https://skillicons.dev/icons?i=js" width="48" height="48" alt="JavaScript" /></a>
+  <a href="https://www.typescriptlang.org/" title="TypeScript" target="_blank"><img src="https://skillicons.dev/icons?i=ts" width="48" height="48" alt="TypeScript" /></a>
+  <a href="https://www.python.org/" title="Python" target="_blank"><img src="https://skillicons.dev/icons?i=python" width="48" height="48" alt="Python" /></a>
+  <a href="https://www.oracle.com/java/" title="Java" target="_blank"><img src="https://skillicons.dev/icons?i=java" width="48" height="48" alt="Java" /></a>
+  <a href="https://dart.dev/" title="Dart" target="_blank"><img src="https://skillicons.dev/icons?i=dart" width="48" height="48" alt="Dart" /></a>
+  <a href="https://flutter.dev/" title="Flutter" target="_blank"><img src="https://skillicons.dev/icons?i=flutter" width="48" height="48" alt="Flutter" /></a>
+  <a href="https://react.dev/" title="React" target="_blank"><img src="https://skillicons.dev/icons?i=react" width="48" height="48" alt="React" /></a>
+</p>
 
-**Agentic AI &amp; Protocol Runtimes:**  
-[![ADK](https://img.shields.io/badge/ADK-Agent_Development_Kit-087F80?style=for-the-badge&logo=google&logoColor=white)](https://github.com/google/adk-python)
-[![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)](https://www.langchain.com/langgraph)
-[![Ollama](https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white)](https://ollama.com/)
-[![SmolAgents](https://img.shields.io/badge/SmolAgents-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)](https://huggingface.co/docs/smolagents)
-[![Model Context Protocol](https://img.shields.io/badge/Model_Context_Protocol-D97706?style=for-the-badge&logo=anthropic&logoColor=white)](https://modelcontextprotocol.io/)
-[![FastMCP](https://img.shields.io/badge/FastMCP-087F80?style=for-the-badge&logo=fastapi&logoColor=white)](https://github.com/jlowin/fastmcp)
+<p align="left">
+  <b>Backend, Networking &amp; Protocols:</b><br />
+  <a href="https://fastapi.tiangolo.com/" title="FastAPI" target="_blank"><img src="https://skillicons.dev/icons?i=fastapi" width="48" height="48" alt="FastAPI" /></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/API/WebSockets_API" title="WebSockets" target="_blank"><img src="./assets/icons/websockets.svg" width="48" height="48" alt="WebSockets" /></a>
+  <a href="https://www.postman.com/" title="Postman" target="_blank"><img src="https://skillicons.dev/icons?i=postman" width="48" height="48" alt="Postman" /></a>
+</p>
 
-**Core Languages &amp; Client Frameworks:**  
-[![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white)](https://en.cppreference.com/w/c)
-[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
-[![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
-[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
-[![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)](https://www.oracle.com/java/)
-[![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)](https://dart.dev/)
-[![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)](https://flutter.dev/)
-[![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](https://react.dev/)
-
-**Backend, Networking &amp; Protocols:**  
-[![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)](https://fastapi.tiangolo.com/)
-[![WebSockets](https://img.shields.io/badge/WebSockets-010101?style=for-the-badge&logo=socketdotio&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/API/WebSockets_API)
-[![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)](https://www.postman.com/)
-
-**Cloud, DevOps &amp; GitOps Infrastructure:**  
-[![Argo CD](https://img.shields.io/badge/Argo_CD-EF7B4D?style=for-the-badge&logo=argo&logoColor=white)](https://argo-cd.readthedocs.io/)
-[![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)](https://kubernetes.io/)
-[![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)](https://cloud.google.com/)
-[![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)](https://www.docker.com/)
-[![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)](https://github.com/features/actions)
+<p align="left">
+  <b>Cloud, DevOps &amp; GitOps Infrastructure:</b><br />
+  <a href="https://argo-cd.readthedocs.io/" title="Argo CD" target="_blank"><img src="./assets/icons/argocd.svg" width="48" height="48" alt="Argo CD" /></a>
+  <a href="https://kubernetes.io/" title="Kubernetes" target="_blank"><img src="https://skillicons.dev/icons?i=kubernetes" width="48" height="48" alt="Kubernetes" /></a>
+  <a href="https://cloud.google.com/" title="Google Cloud" target="_blank"><img src="https://skillicons.dev/icons?i=gcp" width="48" height="48" alt="Google Cloud" /></a>
+  <a href="https://www.docker.com/" title="Docker" target="_blank"><img src="https://skillicons.dev/icons?i=docker" width="48" height="48" alt="Docker" /></a>
+  <a href="https://github.com/features/actions" title="GitHub Actions" target="_blank"><img src="https://skillicons.dev/icons?i=githubactions" width="48" height="48" alt="GitHub Actions" /></a>
+</p>
 
 <!-- top-contributor-proof:start -->
 ## Upstream authority
