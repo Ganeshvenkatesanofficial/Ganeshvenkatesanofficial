@@ -43,6 +43,36 @@ The operating principle is simple: preserve the interaction state, replay the ag
 | **Evaluating offline desktop copilots** | [DeskMate offline desktop assistant](https://github.com/Ganeshvenkatesanofficial/DeskMate) |
 | **Building open-source multi-agent workflows** | [My repositories (105+)](https://github.com/Ganeshvenkatesanofficial?tab=repositories) |
 
+### Technology stack & verified ecosystem
+
+Click any official badge to inspect documentation and specifications:
+
+**Agentic AI &amp; Protocol Runtimes:**  
+[![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)](https://www.langchain.com/langgraph)
+[![Ollama](https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white)](https://ollama.com/)
+[![SmolAgents](https://img.shields.io/badge/SmolAgents-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)](https://huggingface.co/docs/smolagents)
+[![Model Context Protocol](https://img.shields.io/badge/Model_Context_Protocol-D97706?style=for-the-badge&logo=anthropic&logoColor=white)](https://modelcontextprotocol.io/)
+[![FastMCP](https://img.shields.io/badge/FastMCP-087F80?style=for-the-badge&logo=fastapi&logoColor=white)](https://github.com/jlowin/fastmcp)
+
+**Core Languages &amp; Client Frameworks:**  
+[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
+[![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)](https://dart.dev/)
+[![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)](https://flutter.dev/)
+[![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](https://react.dev/)
+[![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
+
+**Backend, Networking &amp; Protocols:**  
+[![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)](https://fastapi.tiangolo.com/)
+[![WebSockets](https://img.shields.io/badge/WebSockets-010101?style=for-the-badge&logo=socketdotio&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/API/WebSockets_API)
+[![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)](https://www.postman.com/)
+
+**Cloud, DevOps &amp; GitOps Infrastructure:**  
+[![Argo CD](https://img.shields.io/badge/Argo_CD-EF7B4D?style=for-the-badge&logo=argo&logoColor=white)](https://argo-cd.readthedocs.io/)
+[![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)](https://kubernetes.io/)
+[![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)](https://cloud.google.com/)
+[![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)](https://www.docker.com/)
+[![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)](https://github.com/features/actions)
+
 <!-- top-contributor-proof:start -->
 ## Upstream authority
 
