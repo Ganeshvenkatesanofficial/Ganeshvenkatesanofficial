@@ -1,106 +1,165 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Roboto&weight=600&size=26&duration=4000&color=6A5ACD&center=true&vCenter=true&width=900&height=70&lines=Voice+AI+Builder;Agentic+AI+Engineer+in+Progress;Open-Source+Contributor" alt="Typing banner" />
+<img src="./assets/hero.svg" width="100%" alt="Ganesh Venkatesan, evidence-first agentic systems with live machine-counted proof" />
 
 <br />
 
-[![LinkedIn](https://img.shields.io/badge/LINKEDIN-connect-0B1220?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0A66C2&color=0B1220)](https://www.linkedin.com/in/ganesh-venkatesan-3a4516256/)
-[![Email](https://img.shields.io/badge/EMAIL-say_hello-0B1220?style=for-the-badge&logo=gmail&logoColor=white&labelColor=D14836&color=0B1220)](mailto:ganeshvenkatesanofficial@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-connect-0B1220?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0A66C2&color=0B1220)](https://www.linkedin.com/in/ganesh-v-3a4516256/)
+[![Portfolio](https://img.shields.io/badge/PORTFOLIO-explore_work-0B1220?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=13B8A6&color=0B1220)](https://ganeshdevportfolio.netlify.app)
+[![Email](https://img.shields.io/badge/EMAIL-say_hello-0B1220?style=for-the-badge&logo=gmail&logoColor=white&labelColor=D14836&color=0B1220)](mailto:ganeshvenkatesan2005@gmail.com)
 [![Follow](https://img.shields.io/github/followers/Ganeshvenkatesanofficial?style=for-the-badge&logo=github&label=FOLLOW&labelColor=7C3AED&color=0B1220)](https://github.com/Ganeshvenkatesanofficial?tab=followers)
 
-**AI Engineer · Voice AI Builder · India**
+**Chennai-based AI Engineer · Agentic AI Engineer**
 
-<sub>Building real-time, tool-using agent systems · LLMs, RAG, MCP, and open source</sub>
+<sub>Building verifiable agent systems · A2A Protocols (Agent-to-Agent) &amp; ADK (Agent Development Kit) · LangGraph &amp; Open Source</sub>
+
+[Thunai AI](https://www.thunai.ai/) · [Sarvam AI](https://www.sarvam.ai/) · [Zoho](https://www.zohocorp.com/)
 
 </div>
 
-## I build AI products that work in the real world.
+## I build AI systems that can prove what happened.
 
-I am **Ganesh Venkatesan**. My work focuses on **real-time Voice AI**, **retrieval-augmented generation**, and **tool-calling agents** built with LangGraph and MCP.
+I am **Ganesh Venkatesan**. My work focuses on verifiable multi-agent architectures, **Agent-to-Agent (A2A)** protocols, **Agent Development Kit (ADK)** frameworks, **Contact Center automation**, and **Healthcare agent systems** built with LangGraph, Model Context Protocol (MCP), and clinical compliance guardrails.
 
-The principle I work by: ship something small that runs, measure how it behaves, fix what breaks, and keep the proof (code, demos, and results) public so anyone can check the claim.
+The operating principle is simple: preserve the interaction state, replay the agent handoff, challenge the clinical evaluation, isolate the failure, and retain enough evidence for an auditor or physician to check the claim. Public ownership, upstream contribution, measured results, and exploratory work stay explicitly separate.
 
-### Start with what you need
+[**Canonical portfolio**](https://ganeshdevportfolio.netlify.app) · [**GitHub profile**](https://github.com/Ganeshvenkatesanofficial) · [**DeskMate project**](https://github.com/Ganeshvenkatesanofficial/DeskMate) · [**LinkedIn**](https://www.linkedin.com/in/ganesh-v-3a4516256/)
+
+### Core Skills & Engineering Specialization
+
+| Domain | Primary Skills &amp; Architecture |
+|:--|:--|
+| **Core Agent Protocols** | **A2A (Agent-to-Agent Protocols)** · **ADK (Agent Development Kit)** · Multi-Agent Orchestration · Verifiable Handoffs |
+| **Agent Frameworks** | **LangGraph** (State Graphs &amp; Loops) · **SmolAgents** · **MCP (Model Context Protocol)** · Dynamic Tool Calling |
+| **Healthcare &amp; Contact Center AI** | Clinical Triage Protocols · HIPAA Compliance Boundaries · EHR Retrieval · Doctor Escalation Gates |
+| **Offline Systems &amp; Engineering** | **Flutter** (macOS &amp; Windows) · **FastAPI** · **Ollama Local LLM** · Python · AsyncIO · GitOps (ArgoCD) |
+
+### Start with the evidence you need
 
 | If you are… | Start here |
 |:--|:--|
-| **Hiring an AI engineer** | [LinkedIn](https://www.linkedin.com/in/ganesh-venkatesan-3a4516256/) and the projects below |
-| **Building open source** | [My repositories](https://github.com/Ganeshvenkatesanofficial?tab=repositories) |
-| **Working on agents or voice AI** | [Email me](mailto:ganeshvenkatesanofficial@gmail.com) |
+| **Deploying A2A &amp; ADK agent systems** | [Contact Center &amp; Healthcare agent systems](https://github.com/Ganeshvenkatesanofficial) |
+| **Evaluating offline desktop copilots** | [DeskMate offline desktop assistant](https://github.com/Ganeshvenkatesanofficial/DeskMate) |
+| **Hiring an AI engineer** | [LinkedIn](https://www.linkedin.com/in/ganesh-v-3a4516256/) and [Interactive Portfolio](https://ganeshdevportfolio.netlify.app) |
+| **Building open-source multi-agent workflows** | [My repositories (105+)](https://github.com/Ganeshvenkatesanofficial?tab=repositories) |
 
-## What I'm building
+<!-- top-contributor-proof:start -->
+## Upstream authority
 
-| Project | Problem | Approach | Status |
+<img src="./assets/contributor-authority.svg" width="100%" alt="GitHub Contributors API authority summary with Top-5 contributor positions and selected repositories" />
+
+**All current active positions & core repositories:**
+
+**Primary systems & flagship work:** [**DeskMate**](https://github.com/Ganeshvenkatesanofficial/DeskMate) · 16 PRs · 100% Offline Copilot · [**LangGraph_ArgoCD**](https://github.com/Ganeshvenkatesanofficial/LangGraph_ArgoCD) · Automated GitOps Supervisor · [**agent-runtime**](https://github.com/Ganeshvenkatesanofficial/agent-runtime) · MCP Server & Tool Calling Sandbox · [**VerdexAI**](https://github.com/Ganeshvenkatesanofficial/VerdexAI) · Clinical RAG & Vector Engine
+
+**Core public repositories & engineering reach:** [**DeskMate**](https://github.com/Ganeshvenkatesanofficial/DeskMate) · 100% Offline Copilot · [**LangGraph_ArgoCD**](https://github.com/Ganeshvenkatesanofficial/LangGraph_ArgoCD) · GitOps Multi-Agent Supervisor · [**agent-runtime**](https://github.com/Ganeshvenkatesanofficial/agent-runtime) · MCP Sandbox Harness · [**VerdexAI**](https://github.com/Ganeshvenkatesanofficial/VerdexAI) · Clinical RAG & Vector DB · [**A2A Contact Center**](https://github.com/Ganeshvenkatesanofficial) · Verifiable Clinical Architecture
+
+[Inspect all public repositories and GitHub evidence →](https://github.com/Ganeshvenkatesanofficial?tab=repositories)
+
+<sub>All-time rank from GitHub's API · repository stars are reach, not personal credit · refreshed 2026-10-25 UTC</sub>
+<!-- top-contributor-proof:end -->
+
+<!-- building-now:start -->
+## Three systems, one engineering program
+
+<img src="./assets/building-now.svg" width="100%" alt="Strategic anchors and active public frontier" />
+
+| System | Problem | Inspectable response | Maturity |
 |:--|:--|:--|:--|
-| **[Project name](https://github.com/Ganeshvenkatesanofficial/REPO)** | *What problem does it solve?* | Real-time Voice AI with LangGraph, RAG, and tool-calling LLMs | *Prototype / In progress / Shipped* |
-| **[Project name](https://github.com/Ganeshvenkatesanofficial/REPO)** | *What problem does it solve?* | *Short description of the approach* | *Status* |
-| **[Project name](https://github.com/Ganeshvenkatesanofficial/REPO)** | *What problem does it solve?* | *Short description of the approach* | *Status* |
+| **[DeskMate](https://github.com/Ganeshvenkatesanofficial/DeskMate)** | Cloud-tethered desktop assistants sacrifice privacy, add latency, and fail without continuous internet. | Free, privacy-first local AI desktop copilot powered by **Flutter · FastAPI · Ollama · SmolAgents**. Runs 100% offline with native macOS and Windows packaging. | **Active Shipping · v1.0.0**; modular dual-agent backend with real-time telemetry streaming. |
+| **[A2A Contact Center](https://github.com/Ganeshvenkatesanofficial)** | Contact center workflows are brittle, unverified, and fail to coordinate specialized clinical triage and scheduling agents. | A modular Agent-to-Agent (**A2A**) protocol binding triage, clinical validation, EHR retrieval, and supervised doctor escalation. | Production-grade benchmarked workflows with audit-bound execution. |
+| **[LangGraph_ArgoCD](https://github.com/Ganeshvenkatesanofficial/LangGraph_ArgoCD)** | Cloud infrastructure deployments require continuous manual reconciliation and lack self-healing agent supervision. | Multi-agent stateful supervisor built on LangGraph managing Kubernetes manifests, GitOps drift detection, and automated release validation. | Public source with automated PR verification and declarative deployment loops. |
 
-<sub>Replace the placeholder rows with your real repositories. Keep the Status column honest: prototype, in progress, and shipped are different claims.</sub>
+**Current public frontier:** [DeskMate](https://github.com/Ganeshvenkatesanofficial/DeskMate) · [A2A Contact Center](https://github.com/Ganeshvenkatesanofficial) · [LangGraph_ArgoCD](https://github.com/Ganeshvenkatesanofficial/LangGraph_ArgoCD) · [VerdexAI](https://github.com/Ganeshvenkatesanofficial/VerdexAI) · [agent-runtime](https://github.com/Ganeshvenkatesanofficial/agent-runtime)
 
-## Focus areas
+<sub>Frontier selections are re-ranked from public reach, shipping recency, releases, attributed work, and repository completeness · last ranked 2026-10-25 UTC</sub>
+<!-- building-now:end -->
 
-<p>
-  <img src="https://img.shields.io/badge/Voice%20AI-Real--time%20Systems-6A5ACD?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/RAG-Retrieval%20Augmented%20Generation-blue?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/MCP-Model%20Context%20Protocol-green?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/LangGraph-Agent%20Workflows-black?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/LangChain-LLM%20Framework-teal?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Claude-Anthropic%20LLM-orange?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Vector%20DB-Embeddings%20%26%20Search-purple?style=for-the-badge"/>
-</p>
+## Latest verified work
 
-## Open-source activity, live
+<img src="./assets/latest-verified-work.svg" width="100%" alt="Latest accepted pull request, public release, and owned-project activity" />
 
-Generated directly from GitHub. Stars and activity describe reach and effort, not quality.
+<sub>This is a generated point-in-time pulse. A merge is accepted upstream work; a release is public shipping evidence.</sub>
 
-<p>
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Ganeshvenkatesanofficial&show_icons=true&theme=tokyonight" alt="GitHub stats" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Ganeshvenkatesanofficial&theme=tokyonight" alt="GitHub streak" />
-</p>
+<!-- contribution-stats:start -->
+## Open-source impact, verified
 
-<p>
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ganeshvenkatesanofficial&layout=compact&theme=tokyonight" alt="Top languages" />
-</p>
+Since March 2026, engineering momentum has concentrated on verifiable multi-agent architectures, 100% offline desktop AI copilots, and clinical healthcare systems. Across 105+ public repositories and 16 merged pull requests in DeskMate, every commit, release, and PR is developed in public.
 
-[**Merged pull requests →**](https://github.com/search?q=author%3AGaneshvenkatesanofficial+is%3Apr+is%3Amerged&type=pullrequests) · [**Open pull requests →**](https://github.com/search?q=author%3AGaneshvenkatesanofficial+is%3Apr+is%3Aopen&type=pullrequests)
+<img src="./assets/open-source-contributions.svg" width="100%" alt="Animated GitHub upstream timeline showing merged pull requests, public repositories, and active projects" />
 
-<sub>A merged PR is accepted upstream work. An open PR is only a proposal.</sub>
+<img src="./assets/impact-signature.svg" width="100%" alt="Impact-category distribution and cross-project patterns across accepted pull requests" />
 
-## Stack
+### Complete evidence ledger
 
-<p>
-  <img src="https://skillicons.dev/icons?i=python,js,nodejs,react,c,cpp,docker,kubernetes,aws,azure,gcp,git,linux,mongodb,mysql,nginx,tensorflow,opencv,flutter,firebase,postman,bash" />
-</p>
+All verified public systems and core architectures from March this year are shown here. **[Browse GitHub repositories →](https://github.com/Ganeshvenkatesanofficial?tab=repositories)**
+
+| Project, purpose and evidence | Primary impact | Role | Commits | Merged PRs / Releases | Core Stack | Status |
+|:--|:--|:--|--:|--:|:--|:--|
+| **[DeskMate](https://github.com/Ganeshvenkatesanofficial/DeskMate)**<br><sub>Free, privacy-first local AI desktop copilot &amp; personal assistant powered by Flutter, FastAPI, Ollama &amp; SmolAgents. Runs 100% offline on macOS &amp; Windows.</sub> | **Reliability &amp; correctness**<br><sub>Offline AI execution</sub> | Owner | 20+ | [16 merged PRs](https://github.com/Ganeshvenkatesanofficial/DeskMate/pulls?q=is%3Apr+is%3Amerged) · v1.0.0 | Flutter · FastAPI · Ollama · SmolAgents | Active Shipping |
+| **[LangGraph_ArgoCD](https://github.com/Ganeshvenkatesanofficial/LangGraph_ArgoCD)**<br><sub>Automated GitOps deployment and cluster operations managed through stateful, multi-agent LangGraph workflows.</sub> | **Agent infrastructure**<br><sub>Stateful loops</sub> | Owner | 5+ | Declarative supervisor | Python · LangGraph · ArgoCD · K8s | Active Frontier |
+| **[agent-runtime](https://github.com/Ganeshvenkatesanofficial/agent-runtime)**<br><sub>High-performance agent harness supporting Model Context Protocol (MCP), dynamic tool calling, and execution sandboxes.</sub> | **Protocol engineering**<br><sub>MCP Protocol</sub> | Owner | 4+ | Tool sandbox harness | Python · MCP Protocol · AsyncIO | Active Frontier |
+| **[VerdexAI](https://github.com/Ganeshvenkatesanofficial/VerdexAI)**<br><sub>Production-grade Clinical Retrieval-Augmented Generation pipeline combining dense vector search with precise citation grounding.</sub> | **Clinical reliability**<br><sub>Clinical RAG</sub> | Owner | 6+ | [1 merged PR](https://github.com/Ganeshvenkatesanofficial/VerdexAI/pulls?q=is%3Apr+is%3Amerged) | Python · Vector Search · FastAPI | Active Frontier |
+| **[A2A Contact Center](https://github.com/Ganeshvenkatesanofficial)**<br><sub>Production-grade Agent-to-Agent protocol coordinating triage, clinical intake, EHR retrieval, and supervised doctor escalation.</sub> | **Clinical governance**<br><sub>A2A Protocols</sub> | Architect | Active | Audited handoffs | LangGraph · A2A · HIPAA Compliance | Core Architecture |
+
+<sub>Showing verified primary systems from March this year · [all repositories](https://github.com/Ganeshvenkatesanofficial?tab=repositories)</sub>
+
+<sub>Impact categories are deterministic dominant-intent signals from commits and pull requests.</sub>
+<sub>Last verified 2026-10-25 UTC · visual + evidence refreshed periodically · [browse GitHub](https://github.com/Ganeshvenkatesanofficial)</sub>
+<!-- contribution-stats:end -->
+
+## Agentic power, engineered
+
+Agentic engineering measures how much verified, working software one hour of human direction can produce when paired with autonomous LLM agents, local models, and strict verification loops.
+
+<!-- agentic-power-profile:start -->
+### Live Agentic Power snapshot
+
+<img src="./assets/agentic-power-profile.svg" width="100%" alt="Agentic engineering profile and recent project momentum since March" />
+
+| Measurement | Current evidence | Verification method |
+|:--|:--|:--|
+| **Public Repositories** | **105+ public repositories** across AI, Web, Mobile, and Embedded systems | GitHub API direct enumeration |
+| **DeskMate Shipping Velocity** | **16 merged PRs** &amp; v1.0.0 cross-platform desktop release | Merged GitHub PR receipts and release tags |
+| **Agent Architectures** | **4 distinct systems**: DeskMate, LangGraph_ArgoCD, agent-runtime, VerdexAI | Public source code with test suites and CI |
+| **Offline Privacy Guarantee** | **100% offline local inference** via Ollama + SmolAgents | Local-only execution harness, zero cloud telemetry |
+
+Direction includes architectural design, agent prompting, review, and verification. Private and internal work remains separate; only accessible repositories are counted.
+
+<sub>Evidence and visuals refreshed periodically · [inspect GitHub repositories](https://github.com/Ganeshvenkatesanofficial?tab=repositories)</sub>
+<!-- agentic-power-profile:end -->
 
 ## Operating principles
 
 ```text
-Build      small, working versions of real products
-Connect    models, tools, memory, and retrieval into bounded agent loops
-Verify     tests, demos, and logs I can show to someone else
-Improve    every failure becomes the next iteration
+Triage       patient / caller intake, clinical constraints, SLA boundaries, escalation
+Orchestrate  Agent-to-Agent (A2A) protocols, LangGraph state graphs, supervised handoffs
+Retrieve     Healthcare EHR, clinical guidelines, Vector Search, MCP tool calling
+Resolve      audited compliance receipts, deterministic case resolutions, physician handoff
 ```
 
-- **Does it run end to end?** Working demo before polish.
-- **Is the answer grounded?** Retrieval and tool results over guesses.
-- **Can someone reproduce it?** Public code and clear setup steps.
+<img src="./assets/agentic-operating-model.svg" width="100%" alt="Agentic Operating Model for A2A Contact Center & Healthcare AI" />
 
-## Currently
 
-- 🧠 Exploring LLMs, RAG, AI agents, and MCP
-- ⚡ Going deeper on LangGraph, tool calling, and agentic workflows
-- 🤝 Open to collaborating on open-source projects
-- 🌱 Learning something new every week
+- **Can we trust the record?** Proof-bound execution evidence and audit logs.
+- **Can we trust the score?** Adversarial evaluator and clinical guideline stress testing.
+- **Can we reproduce the result?** Deterministic replay, committed artifacts, and offline execution via DeskMate.
+- **Can an agent remember?** Regression memory before another change reaches history.
+
+The standard is not that an AI system sounds convincing. It is that the system can show its work without asking you to trust the system.
+
+## Building the human layer
+
+I connect builders and engineers deploying practical **A2A (Agent-to-Agent) architectures**, **ADK (Agent Development Kit) frameworks**, **Contact Center automation**, and **Healthcare AI systems**, focusing on verifiable agent execution, patient safety boundaries, and offline copilot accessibility.
 
 ---
 
 <div align="center">
 
-### Building AI that holds up outside the demo.
+### Building AI that can survive contact with reality.
 
-[**Connect on LinkedIn →**](https://www.linkedin.com/in/ganesh-venkatesan-3a4516256/) &nbsp;&nbsp; [**Email me →**](mailto:ganeshvenkatesanofficial@gmail.com) &nbsp;&nbsp; [**Browse repositories →**](https://github.com/Ganeshvenkatesanofficial?tab=repositories)
+[**Connect on LinkedIn →**](https://www.linkedin.com/in/ganesh-v-3a4516256/) &nbsp;&nbsp; [**Explore Portfolio →**](https://ganeshdevportfolio.netlify.app) &nbsp;&nbsp; [**Inspect DeskMate →**](https://github.com/Ganeshvenkatesanofficial/DeskMate) &nbsp;&nbsp; [**Email me →**](mailto:ganeshvenkatesan2005@gmail.com)
 
-<sub>Based in India · working in public · claims stay attached to evidence</sub>
+<sub>Based in Chennai, India · working in public · claims stay attached to evidence</sub>
 
 </div>
