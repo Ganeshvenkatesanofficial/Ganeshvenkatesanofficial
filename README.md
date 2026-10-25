@@ -5,6 +5,7 @@
 <br />
 
 [![LinkedIn](https://img.shields.io/badge/LINKEDIN-connect-0B1220?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0A66C2&color=0B1220)](https://www.linkedin.com/in/ganesh-v-3a4516256/)
+[![X](https://img.shields.io/badge/X-follow-0B1220?style=for-the-badge&logo=x&logoColor=white&labelColor=000000&color=0B1220)](https://x.com/DEVP_GANESH)
 [![Portfolio](https://img.shields.io/badge/PORTFOLIO-explore_work-0B1220?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=13B8A6&color=0B1220)](https://ganeshdevportfolio.netlify.app)
 [![Email](https://img.shields.io/badge/EMAIL-say_hello-0B1220?style=for-the-badge&logo=gmail&logoColor=white&labelColor=D14836&color=0B1220)](mailto:ganeshvenkatesan2005@gmail.com)
 [![Follow](https://img.shields.io/github/followers/Ganeshvenkatesanofficial?style=for-the-badge&logo=github&label=FOLLOW&labelColor=7C3AED&color=0B1220)](https://github.com/Ganeshvenkatesanofficial?tab=followers)
@@ -23,7 +24,7 @@ I am **Ganesh Venkatesan**. My work focuses on verifiable multi-agent architectu
 
 The operating principle is simple: preserve the interaction state, replay the agent handoff, challenge the clinical evaluation, isolate the failure, and retain enough evidence for an auditor or physician to check the claim. Public ownership, upstream contribution, measured results, and exploratory work stay explicitly separate.
 
-[**Canonical portfolio**](https://ganeshdevportfolio.netlify.app) · [**GitHub profile**](https://github.com/Ganeshvenkatesanofficial) · [**DeskMate project**](https://github.com/Ganeshvenkatesanofficial/DeskMate) · [**LinkedIn**](https://www.linkedin.com/in/ganesh-v-3a4516256/)
+[**Canonical portfolio**](https://ganeshdevportfolio.netlify.app) · [**GitHub profile**](https://github.com/Ganeshvenkatesanofficial) · [**DeskMate project**](https://github.com/Ganeshvenkatesanofficial/DeskMate) · [**LinkedIn**](https://www.linkedin.com/in/ganesh-v-3a4516256/) · [**X (@DEVP_GANESH)**](https://x.com/DEVP_GANESH)
 
 ### Core Skills & Engineering Specialization
 
@@ -158,7 +159,7 @@ I connect builders and engineers deploying practical **A2A (Agent-to-Agent) arch
 
 ### Building AI that can survive contact with reality.
 
-[**Connect on LinkedIn →**](https://www.linkedin.com/in/ganesh-v-3a4516256/) &nbsp;&nbsp; [**Explore Portfolio →**](https://ganeshdevportfolio.netlify.app) &nbsp;&nbsp; [**Inspect DeskMate →**](https://github.com/Ganeshvenkatesanofficial/DeskMate) &nbsp;&nbsp; [**Email me →**](mailto:ganeshvenkatesan2005@gmail.com)
+[**Connect on LinkedIn →**](https://www.linkedin.com/in/ganesh-v-3a4516256/) &nbsp;&nbsp; [**Follow on X →**](https://x.com/DEVP_GANESH) &nbsp;&nbsp; [**Explore Portfolio →**](https://ganeshdevportfolio.netlify.app) &nbsp;&nbsp; [**Inspect DeskMate →**](https://github.com/Ganeshvenkatesanofficial/DeskMate) &nbsp;&nbsp; [**Email me →**](mailto:ganeshvenkatesan2005@gmail.com)
 
 <sub>Based in Chennai, India · working in public · claims stay attached to evidence</sub>
 
