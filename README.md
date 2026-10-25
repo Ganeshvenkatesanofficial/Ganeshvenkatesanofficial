@@ -33,21 +33,39 @@ The operating principle is simple: preserve the interaction state, replay the ag
 | **Core Agent Protocols** | **A2A (Agent-to-Agent Protocols)** · **ADK (Agent Development Kit)** · Multi-Agent Orchestration · Verifiable Handoffs |
 | **Agent Frameworks** | **LangGraph** (State Graphs &amp; Loops) · **SmolAgents** · **MCP (Model Context Protocol)** · Dynamic Tool Calling |
 | **Healthcare &amp; Contact Center AI** | Clinical Triage Protocols · HIPAA Compliance Boundaries · EHR Retrieval · Doctor Escalation Gates |
-| **Offline Systems &amp; Engineering** | **Flutter** (macOS &amp; Windows) · **FastAPI** · **Ollama Local LLM** · Python · AsyncIO · GitOps (ArgoCD) |
+| **Offline Systems &amp; Engineering** | **Flutter** (macOS &amp; Windows) · **FastAPI** · **Ollama Local LLM** · Python · Java · C · JavaScript · AsyncIO · GitOps (ArgoCD) |
 
 ### Start with the evidence you need
 
 | If you are… | Start here |
 |:--|:--|
-| **Deploying A2A &amp; ADK agent systems** | [Contact Center &amp; Healthcare agent systems](https://www.thunai.ai/) · [Thunai AI](https://www.thunai.ai/) |
+| **Deploying A2A &amp; ADK agent systems** | [Contact Center &amp; Healthcare AI at Thunai AI](https://www.thunai.ai/) |
 | **Evaluating offline desktop copilots** | [DeskMate offline desktop assistant](https://github.com/Ganeshvenkatesanofficial/DeskMate) |
 | **Building open-source multi-agent workflows** | [My repositories (105+)](https://github.com/Ganeshvenkatesanofficial?tab=repositories) |
 
-### Technology stack & verified ecosystem
+### Technology stack &amp; verified ecosystem
+
+<p align="center">
+  <a href="https://en.cppreference.com/w/c" target="_blank"><img src="https://skillicons.dev/icons?i=c" alt="C" /></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://skillicons.dev/icons?i=js" alt="JavaScript" /></a>
+  <a href="https://www.typescriptlang.org/" target="_blank"><img src="https://skillicons.dev/icons?i=ts" alt="TypeScript" /></a>
+  <a href="https://www.python.org/" target="_blank"><img src="https://skillicons.dev/icons?i=python" alt="Python" /></a>
+  <a href="https://www.oracle.com/java/" target="_blank"><img src="https://skillicons.dev/icons?i=java" alt="Java" /></a>
+  <a href="https://dart.dev/" target="_blank"><img src="https://skillicons.dev/icons?i=dart" alt="Dart" /></a>
+  <a href="https://flutter.dev/" target="_blank"><img src="https://skillicons.dev/icons?i=flutter" alt="Flutter" /></a>
+  <a href="https://react.dev/" target="_blank"><img src="https://skillicons.dev/icons?i=react" alt="React" /></a>
+  <a href="https://fastapi.tiangolo.com/" target="_blank"><img src="https://skillicons.dev/icons?i=fastapi" alt="FastAPI" /></a>
+  <a href="https://www.postman.com/" target="_blank"><img src="https://skillicons.dev/icons?i=postman" alt="Postman" /></a>
+  <a href="https://www.docker.com/" target="_blank"><img src="https://skillicons.dev/icons?i=docker" alt="Docker" /></a>
+  <a href="https://kubernetes.io/" target="_blank"><img src="https://skillicons.dev/icons?i=kubernetes" alt="Kubernetes" /></a>
+  <a href="https://cloud.google.com/" target="_blank"><img src="https://skillicons.dev/icons?i=gcp" alt="Google Cloud" /></a>
+  <a href="https://github.com/features/actions" target="_blank"><img src="https://skillicons.dev/icons?i=githubactions" alt="GitHub Actions" /></a>
+</p>
 
 Click any official badge to inspect documentation and specifications:
 
 **Agentic AI &amp; Protocol Runtimes:**  
+[![ADK](https://img.shields.io/badge/ADK-Agent_Development_Kit-087F80?style=for-the-badge&logo=google&logoColor=white)](https://github.com/google/adk-python)
 [![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)](https://www.langchain.com/langgraph)
 [![Ollama](https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white)](https://ollama.com/)
 [![SmolAgents](https://img.shields.io/badge/SmolAgents-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)](https://huggingface.co/docs/smolagents)
@@ -55,11 +73,14 @@ Click any official badge to inspect documentation and specifications:
 [![FastMCP](https://img.shields.io/badge/FastMCP-087F80?style=for-the-badge&logo=fastapi&logoColor=white)](https://github.com/jlowin/fastmcp)
 
 **Core Languages &amp; Client Frameworks:**  
+[![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white)](https://en.cppreference.com/w/c)
+[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+[![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
 [![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
+[![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)](https://www.oracle.com/java/)
 [![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)](https://dart.dev/)
 [![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)](https://flutter.dev/)
 [![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](https://react.dev/)
-[![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
 
 **Backend, Networking &amp; Protocols:**  
 [![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)](https://fastapi.tiangolo.com/)
