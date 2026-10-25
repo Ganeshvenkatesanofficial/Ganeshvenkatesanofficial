@@ -39,9 +39,8 @@ The operating principle is simple: preserve the interaction state, replay the ag
 
 | If you are… | Start here |
 |:--|:--|
-| **Deploying A2A &amp; ADK agent systems** | [Contact Center &amp; Healthcare agent systems](https://github.com/Ganeshvenkatesanofficial) |
+| **Deploying A2A &amp; ADK agent systems** | [Contact Center &amp; Healthcare agent systems](https://www.thunai.ai/) · [Thunai AI](https://www.thunai.ai/) |
 | **Evaluating offline desktop copilots** | [DeskMate offline desktop assistant](https://github.com/Ganeshvenkatesanofficial/DeskMate) |
-| **Hiring an AI engineer** | [LinkedIn](https://www.linkedin.com/in/ganesh-v-3a4516256/) and [Interactive Portfolio](https://ganeshdevportfolio.netlify.app) |
 | **Building open-source multi-agent workflows** | [My repositories (105+)](https://github.com/Ganeshvenkatesanofficial?tab=repositories) |
 
 <!-- top-contributor-proof:start -->
@@ -53,7 +52,7 @@ The operating principle is simple: preserve the interaction state, replay the ag
 
 **Primary systems & flagship work:** [**DeskMate**](https://github.com/Ganeshvenkatesanofficial/DeskMate) · 16 PRs · 100% Offline Copilot · [**LangGraph_ArgoCD**](https://github.com/Ganeshvenkatesanofficial/LangGraph_ArgoCD) · Automated GitOps Supervisor · [**agent-runtime**](https://github.com/Ganeshvenkatesanofficial/agent-runtime) · MCP Server & Tool Calling Sandbox · [**VerdexAI**](https://github.com/Ganeshvenkatesanofficial/VerdexAI) · Clinical RAG & Vector Engine
 
-**Core public repositories & engineering reach:** [**DeskMate**](https://github.com/Ganeshvenkatesanofficial/DeskMate) · 100% Offline Copilot · [**LangGraph_ArgoCD**](https://github.com/Ganeshvenkatesanofficial/LangGraph_ArgoCD) · GitOps Multi-Agent Supervisor · [**agent-runtime**](https://github.com/Ganeshvenkatesanofficial/agent-runtime) · MCP Sandbox Harness · [**VerdexAI**](https://github.com/Ganeshvenkatesanofficial/VerdexAI) · Clinical RAG & Vector DB · [**A2A Contact Center**](https://github.com/Ganeshvenkatesanofficial) · Verifiable Clinical Architecture
+**Core public repositories & engineering reach:** [**DeskMate**](https://github.com/Ganeshvenkatesanofficial/DeskMate) · 100% Offline Copilot · [**LangGraph_ArgoCD**](https://github.com/Ganeshvenkatesanofficial/LangGraph_ArgoCD) · GitOps Multi-Agent Supervisor · [**agent-runtime**](https://github.com/Ganeshvenkatesanofficial/agent-runtime) · MCP Sandbox Harness · [**VerdexAI**](https://github.com/Ganeshvenkatesanofficial/VerdexAI) · Clinical RAG & Vector DB · [**A2A Contact Center**](https://www.thunai.ai/) · Verifiable Clinical Architecture at Thunai AI
 
 [Inspect all public repositories and GitHub evidence →](https://github.com/Ganeshvenkatesanofficial?tab=repositories)
 
@@ -68,10 +67,10 @@ The operating principle is simple: preserve the interaction state, replay the ag
 | System | Problem | Inspectable response | Maturity |
 |:--|:--|:--|:--|
 | **[DeskMate](https://github.com/Ganeshvenkatesanofficial/DeskMate)** | Cloud-tethered desktop assistants sacrifice privacy, add latency, and fail without continuous internet. | Free, privacy-first local AI desktop copilot powered by **Flutter · FastAPI · Ollama · SmolAgents**. Runs 100% offline with native macOS and Windows packaging. | **Active Shipping · v1.0.0**; modular dual-agent backend with real-time telemetry streaming. |
-| **[A2A Contact Center](https://github.com/Ganeshvenkatesanofficial)** | Contact center workflows are brittle, unverified, and fail to coordinate specialized clinical triage and scheduling agents. | A modular Agent-to-Agent (**A2A**) protocol binding triage, clinical validation, EHR retrieval, and supervised doctor escalation. | Production-grade benchmarked workflows with audit-bound execution. |
+| **[A2A Contact Center](https://www.thunai.ai/)** | Contact center workflows are brittle, unverified, and fail to coordinate specialized clinical triage and scheduling agents. | A modular Agent-to-Agent (**A2A**) protocol binding triage, clinical validation, EHR retrieval, and supervised doctor escalation at [Thunai AI](https://www.thunai.ai/). | Production-grade benchmarked workflows with audit-bound execution. |
 | **[LangGraph_ArgoCD](https://github.com/Ganeshvenkatesanofficial/LangGraph_ArgoCD)** | Cloud infrastructure deployments require continuous manual reconciliation and lack self-healing agent supervision. | Multi-agent stateful supervisor built on LangGraph managing Kubernetes manifests, GitOps drift detection, and automated release validation. | Public source with automated PR verification and declarative deployment loops. |
 
-**Current public frontier:** [DeskMate](https://github.com/Ganeshvenkatesanofficial/DeskMate) · [A2A Contact Center](https://github.com/Ganeshvenkatesanofficial) · [LangGraph_ArgoCD](https://github.com/Ganeshvenkatesanofficial/LangGraph_ArgoCD) · [VerdexAI](https://github.com/Ganeshvenkatesanofficial/VerdexAI) · [agent-runtime](https://github.com/Ganeshvenkatesanofficial/agent-runtime)
+**Current public frontier:** [DeskMate](https://github.com/Ganeshvenkatesanofficial/DeskMate) · [A2A Contact Center](https://www.thunai.ai/) · [LangGraph_ArgoCD](https://github.com/Ganeshvenkatesanofficial/LangGraph_ArgoCD) · [VerdexAI](https://github.com/Ganeshvenkatesanofficial/VerdexAI) · [agent-runtime](https://github.com/Ganeshvenkatesanofficial/agent-runtime)
 
 <sub>Frontier selections are re-ranked from public reach, shipping recency, releases, attributed work, and repository completeness · last ranked 2026-10-25 UTC</sub>
 <!-- building-now:end -->
@@ -101,7 +100,7 @@ All verified public systems and core architectures from March this year are show
 | **[LangGraph_ArgoCD](https://github.com/Ganeshvenkatesanofficial/LangGraph_ArgoCD)**<br><sub>Automated GitOps deployment and cluster operations managed through stateful, multi-agent LangGraph workflows.</sub> | **Agent infrastructure**<br><sub>Stateful loops</sub> | Owner | 5+ | Declarative supervisor | Python · LangGraph · ArgoCD · K8s | Active Frontier |
 | **[agent-runtime](https://github.com/Ganeshvenkatesanofficial/agent-runtime)**<br><sub>High-performance agent harness supporting Model Context Protocol (MCP), dynamic tool calling, and execution sandboxes.</sub> | **Protocol engineering**<br><sub>MCP Protocol</sub> | Owner | 4+ | Tool sandbox harness | Python · MCP Protocol · AsyncIO | Active Frontier |
 | **[VerdexAI](https://github.com/Ganeshvenkatesanofficial/VerdexAI)**<br><sub>Production-grade Clinical Retrieval-Augmented Generation pipeline combining dense vector search with precise citation grounding.</sub> | **Clinical reliability**<br><sub>Clinical RAG</sub> | Owner | 6+ | [1 merged PR](https://github.com/Ganeshvenkatesanofficial/VerdexAI/pulls?q=is%3Apr+is%3Amerged) | Python · Vector Search · FastAPI | Active Frontier |
-| **[A2A Contact Center](https://github.com/Ganeshvenkatesanofficial)**<br><sub>Production-grade Agent-to-Agent protocol coordinating triage, clinical intake, EHR retrieval, and supervised doctor escalation.</sub> | **Clinical governance**<br><sub>A2A Protocols</sub> | Architect | Active | Audited handoffs | LangGraph · A2A · HIPAA Compliance | Core Architecture |
+| **[A2A Contact Center](https://www.thunai.ai/)**<br><sub>Production-grade Agent-to-Agent protocol coordinating triage, clinical intake, EHR retrieval, and supervised doctor escalation at Thunai AI.</sub> | **Clinical governance**<br><sub>A2A Protocols</sub> | Architect | Active | Audited handoffs | LangGraph · A2A · HIPAA Compliance · Thunai AI | Core Architecture |
 
 <sub>Showing verified primary systems from March this year · [all repositories](https://github.com/Ganeshvenkatesanofficial?tab=repositories)</sub>
 
