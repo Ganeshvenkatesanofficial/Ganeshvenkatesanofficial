@@ -4,11 +4,13 @@
 
 <br />
 
-[![LinkedIn](https://img.shields.io/badge/LINKEDIN-connect-0B1220?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0A66C2&color=0B1220)](https://www.linkedin.com/in/ganesh-v-3a4516256/)
-[![X](https://img.shields.io/badge/X-follow-0B1220?style=for-the-badge&logo=x&logoColor=white&labelColor=000000&color=0B1220)](https://x.com/DEVP_GANESH)
-[![Portfolio](https://img.shields.io/badge/PORTFOLIO-explore_work-0B1220?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=13B8A6&color=0B1220)](https://ganeshdevportfolio.netlify.app)
-[![Email](https://img.shields.io/badge/EMAIL-say_hello-0B1220?style=for-the-badge&logo=gmail&logoColor=white&labelColor=D14836&color=0B1220)](mailto:ganeshvenkatesanofficial@gmail.com)
-[![Follow](https://img.shields.io/github/followers/Ganeshvenkatesanofficial?style=for-the-badge&logo=github&label=FOLLOW&labelColor=7C3AED&color=0B1220)](https://github.com/Ganeshvenkatesanofficial?tab=followers)
+<p align="center">
+  <a href="https://github.com/Ganeshvenkatesanofficial" title="GitHub" target="_blank"><img src="https://skillicons.dev/icons?i=github" width="48" height="48" alt="GitHub" /></a>
+  <a href="https://www.linkedin.com/in/ganesh-v-3a4516256/" title="LinkedIn" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" width="48" height="48" alt="LinkedIn" /></a>
+  <a href="https://x.com/DEVP_GANESH" title="X (Twitter)" target="_blank"><img src="./assets/icons/x.svg" width="48" height="48" alt="X" /></a>
+  <a href="https://ganeshdevportfolio.netlify.app" title="Developer Portfolio" target="_blank"><img src="./assets/icons/portfolio.svg" width="48" height="48" alt="Portfolio" /></a>
+  <a href="mailto:ganeshvenkatesanofficial@gmail.com" title="Email" target="_blank"><img src="https://skillicons.dev/icons?i=gmail" width="48" height="48" alt="Email" /></a>
+</p>
 
 **Chennai-based AI Engineer · Agentic AI Engineer**
 
